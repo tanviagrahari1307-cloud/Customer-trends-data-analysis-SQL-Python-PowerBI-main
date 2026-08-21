@@ -65,7 +65,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 
 ## 👨‍💻 About the Author
-Hey, I’m Raunak Singh, Aspiring Data Analyst & Software Development Engineer with a passion for data-driven problem solving, DSA, and full-stack development. Always learning, building, and exploring new technologies.
+Hey, I’m Ekta Agrahari, Aspiring Data Analyst & Software Development Engineer with a passion for data-driven problem solving, DSA, and full-stack development. Always learning, building, and exploring new technologies.
 
 
 ## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
